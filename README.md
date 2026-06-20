@@ -6,7 +6,7 @@
 
 Добавим кнопку скачивания OBJ.
 
-[The estimneited structure (Version 2 - Download OBJ) | Babylon.js Playground](https://playground.babylonjs.com/#2K0RGX#2)
+[The estimneited structure (Version 2 - Download OBJ) | Babylon.js Playground](https://playground.babylonjs.com/#2K0RGX#3)
 
 Теперь сденлаем бесконечную процедурную генерируемую версию XYZ просто перемещайтесь с помощью клавиш asdw, и мир будете генерироваться на ходу.
 
