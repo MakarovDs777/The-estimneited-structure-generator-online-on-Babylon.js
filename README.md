@@ -10,4 +10,4 @@
 
 Теперь сденлаем бесконечную процедурную генерируемую версию XYZ просто перемещайтесь с помощью клавиш asdw, и мир будете генерироваться на ходу.
 
-[The estimneited structure endless XYZ version | Babylon.js Playground](https://playground.babylonjs.com/#0ULWB0#0)
+[The estimneited structure endless XYZ version | Babylon.js Playground](https://playground.babylonjs.com/#0ULWB0#1)
