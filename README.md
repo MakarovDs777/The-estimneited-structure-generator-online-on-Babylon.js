@@ -12,6 +12,10 @@
 
 [The estimneited structure (Version 3 - 2D version) | Babylon.js Playground](https://playground.babylonjs.com/#5OG49N)
 
+Теперь сделаем горизонтальную версию а не вертикальную.
+
+[The estimneited structure (Version 4 - 2D Horizontal version) | Babylon.js Playground](https://playground.babylonjs.com/#1G1ZCB)
+
 Теперь сденлаем бесконечную процедурную генерируемую версию XYZ просто перемещайтесь с помощью клавиш asdw, и мир будете генерироваться на ходу.
 
 [The estimneited structure endless XYZ version | Babylon.js Playground](https://playground.babylonjs.com/#0ULWB0#1)
