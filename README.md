@@ -8,6 +8,10 @@
 
 [The estimneited structure (Version 2 - Download OBJ) | Babylon.js Playground](https://playground.babylonjs.com/#2K0RGX#4)
 
+Нужно сделать 2d версию а не 3d.
+
+[The estimneited structure (Version 3 - 2D version) | Babylon.js Playground](https://playground.babylonjs.com/#5OG49N)
+
 Теперь сденлаем бесконечную процедурную генерируемую версию XYZ просто перемещайтесь с помощью клавиш asdw, и мир будете генерироваться на ходу.
 
 [The estimneited structure endless XYZ version | Babylon.js Playground](https://playground.babylonjs.com/#0ULWB0#1)
